@@ -1,2 +1,7 @@
+# Display Settings
 SCREEN_WIDTH = 1280
 SCREEN_HEIGHT = 720
+
+# Game Settings
+PLAYER_RADIUS = 20
+LINE_WIDTH = 2
